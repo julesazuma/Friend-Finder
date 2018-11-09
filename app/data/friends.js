@@ -1,8 +1,8 @@
 var friends = [
 	
 	{
-		name: "Mike Anderson",
-		photo: "",
+		name: "Adam Levine",
+		photo: "http://celebrityinsider.org/wp-content/uploads/2018/08/Adam-Levine-BostonHerald.com_-e1533405317517.jpeg",
 		scores: [
 			"5",
 			"1",
@@ -17,8 +17,8 @@ var friends = [
 		]
 	},
 	{
-		name: "Joe Williams",
-		photo: "",
+		name: "Justin Beiber",
+		photo: "https://pbs.twimg.com/profile_images/770486913077747713/6zeXbVqf.jpg",
 		scores: [
 			"3",
 			"1",
@@ -33,8 +33,8 @@ var friends = [
 		]
 	},
 	{
-		name: "Dave Scott",
-		photo: "",
+		name: "Ariana Grande",
+		photo: "http://hdqwalls.com/wallpapers/ariana-grande-face-portrait-4k-zi.jpg",
 		score: [
 			"3",
 			"1",
