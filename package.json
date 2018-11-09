@@ -1,12 +1,25 @@
 {
-    "name": "FriendFinder",
-    "version": "1.0.0",
-    "description": "A compatibility-based application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.",
-    "main": "server.js",
-    "dependencies": { 
-       "express": "^4.16.3"
-    },
-    "scripts": {
-      "start": "node server.js"
-    }
-  }
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "A friend finder",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julesazuma/Friend-Finder.git"
+  },
+  "author": "Jules Azuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julesazuma/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/julesazuma/Friend-Finder#readme"
+}
